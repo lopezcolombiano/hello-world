@@ -1,2 +1,2 @@
 Hello
-This is the second line I added 
+This is the second line 
